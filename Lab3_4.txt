@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<h1><"Relative Reference Exercise"></h2>
+
+
+<p>"The following should display a series...</p>
+<p>"Click on"</p><a href="one.html">Next</a>
+</a><p>"to get started"</p>
+
+
+</html>

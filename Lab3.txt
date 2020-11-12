@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<h1><img src=animals-banner.jpg" width"200" height"200" alt="Animals Banner"></h1>
+
+<h2>Dogs</h2>
+ <p><img src="dog1.jpg" width"50" height"50" alt="Dog1">
+ <img src="dog2.jpg" width"50" height"50" alt="Dog2">
+ </p>
